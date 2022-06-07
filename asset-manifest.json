@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react/static/css/main.a83eeefa.css",
+    "main.js": "/react/static/js/main.bd6e8df3.js",
+    "static/js/787.1ed0c42c.chunk.js": "/react/static/js/787.1ed0c42c.chunk.js",
+    "static/media/city.jpg": "/react/static/media/city.2d02450ba3d857007ded.jpg",
+    "static/media/page2_1.jpg": "/react/static/media/page2_1.ccad2c090892edf5451e.jpg",
+    "static/media/page2_2.jpg": "/react/static/media/page2_2.0baf09be183c715ae865.jpg",
+    "static/media/tree.jpg": "/react/static/media/tree.fddb50b00ebb43fb36d9.jpg",
+    "static/media/page2_3.jpg": "/react/static/media/page2_3.b459db6201d59146b118.jpg",
+    "static/media/mountain.jpg": "/react/static/media/mountain.5951345e9ad47de7c362.jpg",
+    "static/media/deer.jpg": "/react/static/media/deer.d350dfb5accf0199a10b.jpg",
+    "static/media/europe.jpg": "/react/static/media/europe.9e9bfba657d2a6d305fb.jpg",
+    "static/media/page2_4.jpg": "/react/static/media/page2_4.44761aa72109361fd7f5.jpg",
+    "index.html": "/react/index.html",
+    "main.a83eeefa.css.map": "/react/static/css/main.a83eeefa.css.map",
+    "main.bd6e8df3.js.map": "/react/static/js/main.bd6e8df3.js.map",
+    "787.1ed0c42c.chunk.js.map": "/react/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a83eeefa.css",
+    "static/js/main.bd6e8df3.js"
+  ]
+}
